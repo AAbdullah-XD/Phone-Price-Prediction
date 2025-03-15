@@ -50,6 +50,16 @@ The **Phone Price Detector** project aims to develop a machine learning model ca
 - ✅ A **robust price prediction model** for smartphones based on user-input features.
 - 📈 **Detailed evaluation metrics** to assess model performance.
 - 💡 An **interactive Jupyter Notebook** for users to explore predictions.
+#Screen shots
+##Home
+![image](https://github.com/user-attachments/assets/91614c81-4c4e-4906-8991-fd0ce9fae488)
+##Predicting Price
+![image](https://github.com/user-attachments/assets/d210bc65-39bc-49aa-a84a-45f34d842e9d)
+###Result
+![image](https://github.com/user-attachments/assets/32a8cb42-dd70-4e11-83c5-a308b64d6aff)
+
+##View Phoneslist
+![image](https://github.com/user-attachments/assets/097c9391-3c96-4741-a878-b7a131234b9c)
 
 ## 🎤 Conclusion
 The **Phone Price Detector** project provides valuable insights into smartphone pricing trends, helping users make informed purchasing decisions. By implementing **OOP principles**, we ensure a structured and maintainable codebase, facilitating future improvements and scalability.
